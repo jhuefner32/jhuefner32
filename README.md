@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 U+1F919
 
 Currently I have no projects I am working on in github, but rather am exploring projects involving electric car navigation software.
 I am learning the design and development process of circuit boards and their components.
